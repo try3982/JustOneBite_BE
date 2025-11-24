@@ -63,13 +63,20 @@
 
 
 
+
 > - User ↔ Order ↔ Payment ↔ Review ↔ Shop ↔ Item 간 다대일 관계로 구성  
-> - Soft Delete 및 Auditing 기반으로 데이터 이력 추적 가능  
+> - Soft Delete 및 Auditing 기반으로 데이터 이력 추적 가능
+
 
 
 
 
 ---
+
+
+## 리뷰 작성 다이어그램
+<img width="3559" height="2838" alt="Untitled diagram-2025-11-24-003151" src="https://github.com/user-attachments/assets/903108ad-a3d0-475e-b249-c2d4ecdac8d8" />
+
 
 
 
